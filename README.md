@@ -16,13 +16,13 @@ Join 'CH4nge' to drive climate action, and combat climate change.
 ## Our CH4nge platform
 
 **Project demo**
-[https://youtu.be/KJPHaEXbDOs](https://youtu.be/KJPHaEXbDOs)
-
+[link](https://youtu.be/KJPHaEXbDOs)
 
 **Access to our platform**
-[https://www.figma.com/community/file/1292762202076380587](https://www.figma.com/community/file/1292762202076380587)
+[link](https://www.figma.com/community/file/1292762202076380587)
 
-
+**Presentation of our CH4nge project** 
+[link](https://view.genial.ly/6522822ce8c5250011e7ca18/presentation-presentacion-ns)
 
 ## Data processing
 The processing of data is initially organized in two steps:

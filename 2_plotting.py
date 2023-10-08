@@ -76,11 +76,11 @@ fig2.update_layout(
     mapbox_layers=[
         {
             "below": 'traces',
-            # "sourcetype": "raster",
-            # "sourceattribution": "United States Geological Survey",
-            # "source": [
-            #     "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}"
-            # ]
+            "sourcetype": "raster",
+            "sourceattribution": "United States Geological Survey",
+            "source": [
+                "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}"
+            ]
         }
       ])
 fig2.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
@@ -99,8 +99,7 @@ for i in range(len(limits)):
     lim = limits[i]
     df_sub = df_hotspots[lim[0]:lim[1]]
     fig3.add_trace(go.Scattergeo(
-        # loc
-        # ationmode = 'USA-states',
+        locationmode = 'USA-states',
         lon = df_sub['Lon'],
         lat = df_sub['Lat'],
         text = df_sub['text'],
@@ -115,11 +114,11 @@ for i in range(len(limits)):
 
 fig3.update_layout(
         title_text = '2022 Methane Emissions<br>(Click legend to toggle traces)',
-        showlegend = True
-        # geo = dict(
-        #     scope = 'usa',
-        #     landcolor = 'rgb(217, 217, 217)',
-        # )
+        showlegend = True,
+        geo = dict(
+            scope = 'usa',
+            landcolor = 'rgb(217, 217, 217)',
+            )
     )
 
 
@@ -166,7 +165,7 @@ fig0.write_html(os.path.join(output_folder, "map_blank.html"))
 fig0.write_image(os.path.join(output_folder, "map_blank.png"))
 
 fig1.write_html(os.path.join(output_folder, "hotspots1.html"))
-fig1.write_image(os.path.join(output_folder, "hotspots1.html"))
+fig1.write_image(os.path.join(output_folder, "hotspots1.png"))
 
 fig2.write_html(os.path.join(output_folder, "hotspots2.html"))
 fig2.write_image(os.path.join(output_folder, "hotspots2.png"))

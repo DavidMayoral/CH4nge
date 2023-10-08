@@ -12,8 +12,14 @@ Whether it’s by learning, tracking your own emissions or supporting local sust
 
 Join 'CH4nge' to drive climate action, and combat climate change.
 
-## Change platform
+## Our CH4nge platform
 
+**Project demo**
+
+[https://youtu.be/KJPHaEXbDOs](https://youtu.be/KJPHaEXbDOs)
+
+**Access to our platform**
+[]
 
 ## Processing
 The processing of data is initially organized in two steps:

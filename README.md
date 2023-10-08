@@ -1,10 +1,16 @@
 # CH4nge
 
-At Rodriguez Aerospace, our goal is to use open science to combat climate change more effectively. Methane, the second-highest contributor to climate change, is often overlooked despite its significant impact. Currently, data on methane is scattered. It is a challenge for researchers to track emissions, develop effective measures, and raise awareness about the issue. 
+At Rodriguez Aerospace, our goal is to use open science to combat climate change more effectively.
 
-Our new platform 'CH4nge' aims to become the world's largest repository of open methane data, accelerating research and facilitating cross-disciplinary collaboration for effective climate change solutions. 'CH4nge' empowers scientists and policymakers with comprehensive data and tools to understand methane emissions, sources, and impacts. 
+Methane, the second-highest contributor to climate change, is often overlooked despite its significant impact. Currently, data on methane is scattered. It is a challenge for researchers to track emissions, develop effective measures, and raise awareness about the issue.
 
-Whether it’s by learning, tracking your own emissions or supporting local sustainability initiatives, we also encourage individuals to contribute to the global effort to combat climate change. Join 'CH4nge' to drive climate action, and combat climate change.
+Our new platform 'CH4nge' aims to become the world's largest repository of open methane data, accelerating research and facilitating cross-disciplinary collaboration for effective climate change solutions.
+
+'CH4nge' empowers scientists and policymakers with comprehensive data, interactive maps and other tools to understand and assess methane emissions, sources, and impacts.
+
+Whether it’s by learning, tracking your own emissions or supporting local sustainability initiatives, we also encourage individuals to contribute to the global effort to combat climate change.
+
+Join 'CH4nge' to drive climate action, and combat climate change.
 
 ## Change platform
 
